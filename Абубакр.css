@@ -1,0 +1,211 @@
+        * { margin: 0; }
+header{
+    width: 100%;
+    height: 100px;
+    position: absolute;
+
+}
+
+header > .box {
+    display: flex;
+    align-items: center;
+
+    & > .box-links {
+        display: flex;
+        gap: 50px;
+        margin-left: 5%;
+    }
+}
+header a{
+    color: #fff;
+    font-size: 1.3em;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+    
+}
+header a:hover > div {
+    display: flex;
+    height: max-content;
+    
+}
+header .content {
+    width: 60px;
+    height: 60px;
+    background: url(https://www.bmw.ru/content/dam/bmw/common/images/logo-icons/BMW/BMW_White_Logo.svg.asset.1670245093434.svg) center/90% no-repeat;
+}
+header > p{
+    color: #fff;    
+    font-size: 2em;
+}
+.cont{
+    background:  url(https://bmw.scene7.com/is/image/BMW/banner_new?fmt=webp&wid=1504) ;
+    width: 100%;
+    height:  1000px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+}
+.cont >p{
+    position: absolute;
+    top: 80%;
+    color: #fff;
+    font-size: 2.5em;
+    margin-left: 10%;
+}
+.cont-2{
+    margin-top: -15%;
+}
+.cont-3{
+    margin-top: 2%;
+    font-size: 2.5em;
+}
+.box-main{
+    display: flex;
+   flex-wrap: wrap;
+    width: 100%;
+    height: max-content;
+    gap: 20px;
+    margin-top: 2%;
+    justify-content: center;
+}
+
+
+.icon-1{
+    background: url(https://bmw.scene7.com/is/image/BMW/NxW_Home_ICON_RFS?wid=1504&hei=542) center/cover;
+    width: 400px;
+    height: 150px;
+    gap: 50px;
+  
+}
+.icon-2{
+    background: url(https://bmw.scene7.com/is/image/BMW/NxW_Home_ICON_USED_CAR?wid=1504&hei=542) center/cover;
+    width: 400px;
+    height: 150px;
+    gap: 50px; 
+}
+.icon-3{
+    background: url(https://bmw.scene7.com/is/image/BMW/NxW_Home_ICON_TESTDRIVE?wid=1504&hei=542) center/cover;
+    width: 400px;
+    height: 150px;
+}
+.icon-box>p{
+    font-size: 2em;
+    text-align: center;
+}
+.conteiner{
+    display: flex;
+    flex-wrap: wrap;
+     width: 100%;
+     height: max-content;
+     gap: 50px;
+   
+}
+
+.reg-3{
+    background: url(https://a.d-cd.net/qp9iyECQf4koyHM9H3-toUaFH7I-960.jpg)center/cover;
+    width: 100%;
+    height: 750px;
+    background-size: cover;
+}
+.reg-3 > p{
+    color: #fff;
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 1.3em;
+}
+.reg-4>p{
+    color: #fff;
+    font-size: 3em;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.reg-4 >button{
+    width: 400px;
+    height: 50px;
+    margin-left: 10%;
+    margin-top: 2%;
+    background: none;
+    font-size: 1.5em;
+}
+.АВТ{
+    font-size: 3em;
+    font-weight: 0;
+    margin-top: 5%;
+}
+.АВТ-1{
+    display: flex;
+    font-size: 1.5em;
+    justify-content: center;
+    gap: 1.5%;
+    margin-top: 2%;
+    
+}
+.head >header{
+    width: 100%;
+    height: 220px;
+    background-color: #fff8f8;
+}
+
+
+.bn-1 > label{
+    font-size: 0.5em;
+}
+.bn-6 > label{
+    font-size: 0.5em;
+}
+
+
+.kj{
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.kj > img{
+    float: left;
+    width: 50%;
+    height: max-content;
+    margin-left: 3%;
+    
+}
+
+.kj-1 {
+    float: left;
+    margin-left: 50px;
+    
+    font-size: 1.5em;
+    margin-top: 7%;
+}
+.kj p:first-child{
+    font-size: 0.5em;
+}
+.kj p:last-child{
+    font-size: 0.7em;
+}
+.kj-2 > button{
+    width: 200px;
+    height: 50px;
+    background: none;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-weight: bold;
+}
+.kj-3{
+    width: 100%;
+    height: 500px;
+    background-color: #f5f2f2;
+    margin-top: 1%;
+    font-size: 1.2em;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+.kj-3 p{
+    margin-top: 10%;
+}
+.kj-3 p:first-child{
+   font-size: 0.8em;
+}
+
+
+

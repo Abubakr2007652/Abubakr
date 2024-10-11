@@ -1,0 +1,50 @@
+.rty{
+     width: 100%;
+     height: 0;
+     flex-wrap: wrap;
+     gap: 70px;
+   display: flex;
+    color: black;
+
+}
+.rty>label{
+    font-size: 1.3em;
+    width: 100%;
+}
+.bn-1{
+    background: url(https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331cqgv2Z7d%25i02uCaY3MuO2kOHUtWPfbYfXG7y10tLhu1XzWVo7puMLWFmdkAj5DOP7tFkZ8JYCjTnULB9u4RKwcJehoIjAxpXNCpLX0NDPoxiCjtrb4gwTZHI9%25UbT79Kix2ud4WsyZOvdImvhjVB5xbZEmfbYbnQ5V10UkNh5Z4vVAbnkq8cFdzOh5nmP%25FUagq857Mu1vRUmP81D3Vlxb7MPVYXMnWh1DMztrBdeqVYDafvuQjmztYRSGxM67aftxd9Agw1RSfWQopq%25VxdSeZLFtuzWQdjcyB43aeZQ6KC36XRjcZwBEgnrx6Kc%252NU04WwBKupkPTFe%252B3iKL2Ijup2XHBy5v63iprJ2xhGwXHi4TCze9%25rJHFlEmjou4TJIsNAgL3FlTv0kzjyXIslGAnMjCrv0s9O5DbE4GA0ogoRmNF1AMd8U0%25lctOHqTMJFsyZLB9Weu0)center/cover;
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.bn-2{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlaNLnKOo8UmzRUXSx96GReWIMe9yS0orMQ&s)center/cover;
+
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.bn-3{
+   background: url(https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0a8bc8ee-19e1-42e9-b231-b5363be0eded/a590cc88-d989-4496-ac59-62371720dbd1.png)center/cover;
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.bn-4{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63NiAACZzLd116eBS36uUPFspdRrLkjyhMg&s)center/cover;
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.bn-5{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaEQLMnOCqib7V5OEEKZ0r_x7CMc5LoRbSw&s)center/cover;
+    width: 300px;
+    height: 200px;
+    background-repeat:
+}
+.bn-6{
+    background: url(https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331cqgv2Z7d%25i02uCaY3MuO2kOHUtWPfbYf6J7P10tLhu1XzWVo7puMLWFmdkAj5DOP4tpFZ8XgY1nTNIowJ4HO3zkyXq%25sGM8snpq6v6ODubLz2aKqfUKTjmB2fJj5DOP5Eagd%25kcWExHWpbl8FO2k3Hy2o24bDVTQBrXpF7gNlZ24riI1RoscpF4Hv5tX0KiIFJG7hBABHvIT9FoZO2JGvloImVgpT9GsLvcqUilo90yYw6bHsLoACeRThJ0yLOEo29qTACygN6U7mlOECUkaQp7sgNEbnRpy10UkNh5x64VAbnkq8WoqzOh5nmPeisagq857MjFpRUmP81D6BAxb7MPVYXz9Wh1DMztIc5eqVYDafvKUjmztYRSGBO67aftxdTAww1RSfWQoSD%25VxdSeZLd2uzWQdjcy9T3aeZQ6Kdv6XRjcZwBQGErx6Kc%252ZKz4WwBKupCHeFe%252B3inucIjA2y5oHBzcMNpAlZyQjKrPXYuNWC)center/cover;
+    width: 300px;
+    height: 200px;
+    background-repeat:
+}

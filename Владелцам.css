@@ -1,0 +1,25 @@
+.ko{
+    width: 100%;
+    padding: 2% 2% 2% ;
+    justify-content: space-around;
+    gap: 70px;
+    display: flex;
+   font-size: 0.8em;
+}
+.ko p:first-child{
+    font-size: 1em;
+    font-weight: bold;
+    
+ }
+ .po-1 >p{
+    margin-bottom: 5%;
+}
+.po-2 > p{
+    margin-bottom: 5%;
+}
+.po-3 > p{
+    margin-bottom: 5%;
+}
+.po- > p{
+    margin-bottom: 5%;
+}

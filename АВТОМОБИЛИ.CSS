@@ -1,0 +1,394 @@
+.АВТ{
+    font-size: 3em;
+    font-weight: 0;
+    
+}
+.АВТ-1{
+    display: flex;
+    font-size: 1.5em;
+    justify-content: center;
+    gap: 1.5%;
+    margin-top: 5%;
+  
+    
+}
+.head >header{
+    width: 100%;
+    height: 220px;
+    background-color: #fff8f8;
+    margin-top: -2.5%;
+}
+.АВТ-2{
+    margin-top: 3%;
+    margin-left: 3%;
+    font-size: 1.5em;
+}
+.АВТ-3{
+    display: flex;
+    flex-wrap: wrap;
+     width: 100%;
+     height: max-content;
+     gap: 50px;
+     margin-top: 2.5%;
+     justify-content: space-around;
+     
+}
+.av-1{
+    
+    width: 250px;
+    height: 150px;
+    background-repeat: no-repeat;
+    
+}
+.ds{
+    background: url(https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331cqgv2Z7d%25i02uCaY3MuO2kOHUtWPfbYfXG7y10tLhu1XzWVo7puMLWFmdkAj5DOP7tFkZ8XgY1nTNIowJ4HO3zkyXq%25sGM8snGhMQSk%2508Xc9Vo74giAyNF1VgxNJ0%25lI2oub5imC2yRCzXeTt%25ViPRKVZVYpteWh1DMztioCeqVYDafHL2jmztYRSFL167aftxdIWCw1RSfWQveU%25VxdSeZGdYuzWQdjc9T23aeZQ6KCIpXRjcZwBE%25drx6Kc%252Nq74WwBKupksaFe%252B3inLcIjup2XH5Tov63iprJ8vrGwXHi4TP7Y9%25rJHFlM1hou4TJIsDSgL3FlTv0JnlyXIslGAT5tCrv0s9Ol%25zE4GA0og8j3NF9OALUPRXkIogOybMq7nvLUgChDjX5GybUEqYdX89ChbNmtQVPoEqhk7kwRMLWqd2f1hFUHcmAagdOLb5inTNu3Ih)center/cover;
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.av-2{
+   
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.ds-1{
+    background: url(https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331cqgv2Z7d%25i02uCaY3MuO2kOHUtWPfbYfXd1010tLhu1XzWVo7puMLWFmdkAj5DOPFtFkZ8XgY1nTNIowJ4HO3zkyXq%25sGM8snpq6v6ODubLz2aKqfUK8jmB2fJj5DOP5Eagd%25kcWExHWpbl8FO2k3Hy2o24ETQTQBrXpFhialZ24riIqE9scpF4HvVJX0KiIFJGzhrABHvIT9aLbO2JGvloROlgpT9GsLxYjUilo90yGKObHsLoAC1RchJ0yLOEVxnqTMya6VNLB9uWCI5GavToU%25gXAWHR)center/cover;
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.av-3{
+    
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.ds-2{
+    background: url(https://www.synergycarleasing.co.uk/media/7782/bmw-i7-black-sapphire-front-450.png?mode=boxpad&width=575&height=431&rnd=133029488560000000&bgcolor=white)center/cover;
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.av-4{
+    
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.ds-3{
+    background: url(https://stephenjames.co.uk/media/pages/bmw-electric-business-offers/bmw-i5-edrive40-m-sport-saloon-bch/ba970b1fa8-1712698102/bmw-i5-edrive40-m-sport-saloon-800x450-crop.png)center/cover;
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.av-5{
+   
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.ds-4{
+    background: url(https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331cqgv2Z7d%25i02uCaY3MuO2kOHUtWPfbYf6J7P10tLhu1XzWVo7puMLWFmdkAj5DOP4tpFZ8XgY1nTNIowJ4HO3zkyXq%25sGM8snpq6v6ODubLz2aKqfUKTjmB2fJj5DOP5Eagd%25kcWExHWpbl8FO2k3Hy2o24bDVTQBrXpF7gNlZ24riI1RoscpF4Hv5tX0KiIFJG7hBABHvIT9FoZO2JGvloImVgpT9GsLvcqUilo90yYw6bHsLoACeRThJ0yLOEo29qTACygN6U7mlOECUkaQp7sgNEbnRpy10UkNh5x64VAbnkq8WoqzOh5nmPeisagq857MjFpRUmP81D6BAxb7MPVYXz9Wh1DMztIc5eqVYDafvKUjmztYRSGBO67aftxdTAww1RSfWQoSD%25VxdSeZLd2uzWQdjcy9T3aeZQ6Kdv6XRjcZwBQGErx6Kc%252ZKz4WwBKupCHeFe%252B3inucIjA2y5oHBzcMNpAlZyQjKrPXYuNWC)center/cover;
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+ .av-6{
+   
+     width: 250px;
+     height: 200px;
+     background-repeat: no-repeat;
+ }
+ .ds-5{
+    background: url(https://www.arval.lu/sites/default/files/2024-02/BMW%20iX2%20-%20Red.png)center/cover;
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+ }
+ .АВТ-4{
+    margin-top: 10%;
+    margin-left: 3%;
+    font-size: 1.5em;
+ }
+.АВТ-5{
+    display: flex;
+    flex-wrap: wrap;
+     width: 100%;
+     height: max-content;
+     gap: 70px;
+     margin-top: 2.5%;
+     justify-content: space-around;
+   
+}
+.as{
+   
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+  
+}
+.ds-6{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVj6cVsBdB-9-ZU8rS23tK3ncSFsfdAXhnoEIQ_AuLgZQsJXI5rUrTpp90FJzVwt_z4I&usqp=CAU)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.as-2{
+   
+    width: 300px;
+    height: 180px;
+    background-repeat: no-repeat;
+}
+.ds-7{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVqXdmZrNh1CP42yxjY05F3kZtZK_WP_7RKuZD37oJdL2XGJZDUhusUelJ6M0ngAs4eXM&usqp=CAU)center/cover;
+    width: 300px;
+    height: 180px;
+    background-repeat: no-repeat;
+}
+.as-3{
+    
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.ds-8{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDwDlY-wiArnP6sMdBJ-fEXTpI2chUrZEtBQrvmN1h4CH1heLwnxCtf6Zik5Z50oyF80&usqp=CAU)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.as-4{
+   
+   width: 300px;
+   height: 150px;
+    background-repeat: no-repeat;
+}
+.ds-9{
+    background: url(https://avatars.mds.yandex.net/i?id=f1fe0b1f81e0b24a2bc4ad586b4ac95e97db3c77-9181142-images-thumbs&n=13)center/cover;
+    width: 300px;
+    height: 150px;
+     background-repeat: no-repeat;
+}
+.as-5{
+   
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.ds-10{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMM7nV1Q_iqGUBAtJU-BCvTtJBtkla-daInw&s)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.as-6{
+  
+   width: 300px;
+    height: 150px;
+   background-repeat: no-repeat;
+}
+.ds-11{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFrTV6SQFvx2SzpyGDFKRx-BkddbOtZatzQ&s)center/cover;
+    width: 300px;
+    height: 150px;
+   background-repeat: no-repeat;
+}
+.as-7{
+    
+    width: 300px;
+    height: 150px;
+   background-repeat: no-repeat;
+}
+.ds-12{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT-ny_PcM30BFJijq7rMc-fKVbI0j8CDq_Q&s)center/cover;
+    width: 300px;
+    height: 150px;
+   background-repeat: no-repeat;
+}
+.as-8{
+    
+    width: 300px;
+    height: 150px;
+   background-repeat: no-repeat;
+}
+.ds-13{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01-WB2zaCwNptOJE4P_mb2EoraxiN-sUwqQ&s)center/cover;
+    width: 300px;
+    height: 150px;
+   background-repeat: no-repeat;
+}
+.as-9{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6JImdTJ7hnONttoKdUwkKzDKDQX9A1JZXZQ&s)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.as-10{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b6DLXCr-jsWnuPHX6lYi4fuO_4PUqx-Cgg&s)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.as-11{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5Rp3LKMwt5yTQcXE8HxnlwWxZ0THFLjzUQ&s)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat
+}
+.as-12{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBWaqheA3-XLb79yLX0-lLCayixsRJ1TTcTw&s)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat
+}
+.as-13{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsW4-U2zuMf-De_T0OEFTOFQlijb-_Usk-zQ&s)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.as-14{
+   background: url(https://media.adtorqueedge.com/new-cars/bmw-aus/ix/variant/ix-xdrive40.png)center/cover;
+   width: 300px;
+   height: 150px;
+   background-repeat: no-repeat;
+    
+}
+.АВТ-6{
+    margin-top: 10%;
+    margin-left: 3%;
+    font-size: 1.5em;
+}
+.АВТ-7{
+    display: flex;
+    flex-wrap: wrap;
+     width: 100%;
+     height: max-content;
+     gap: 70px;
+     margin-top: 2.5%;
+     justify-content: space-around;
+}
+
+.we-1{
+    background: url(https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=24SR&client=byoc&paint=P0416&fabric=FVCSW&sa=S01FY,S02TB,S02VW,S0302,S0319,S0322,S03DN,S03M3,S0420,S0423,S044A,S0453,S04FL,S04HA,S04HB,S04MA,S04MC,S04T7,S04UR,S05AC,S05AU,S05DN,S06AC,S06AK,S06C4,S06F1,S06NX,S06U3&quality=80&BKGND=TRANSPARENT&angle=30&width=600&resp=png)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+    
+}
+.we-2{
+    background: url(https://vehicle-images.dealerinspire.com/stock-images/chrome/2677a692c747afd5aaf73c488007902c.png)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-3{
+    background: url(https://platform.cstatic-images.com/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/61c89660-c7f7-479e-b2e9-218f827cda71.png)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-4{
+    background: url(https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=25XN&client=byoc&paint=P0300&fabric=FLKSW&sa=S01CE,S01EZ,S01MA,S0302,S0319,S0322,S03MF,S0402,S0420,S0423,S0459,S04FL,S04GQ,S04HB,S04MA,S04MC,S04NB,S0552,S05AC,S05AS,S05DW,S0688,S06AC,S06AK,S06C4,S06CP,S06NX,S06U3,S0776,S07M9&angle=30)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-5{
+    background: url(https://vehicle-images.dealerinspire.com/stock-images/chrome/b8efb25ac04e6e1c55e3d67edd47776c.png)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-6{
+    background: url(https://dealerimages.dealereprocess.com/image/upload/c_limit,f_auto,fl_lossy,w_600/v1/svp/dep/22bmwx5m50isu4t/bmw_22x5m50isu4t_angularfront_alpinewhite)center/cover;
+    width: 300px;
+    height: 170px;
+    background-repeat: no-repeat;
+}
+.we-7{
+    background: url(https://rng-t.com/wp-content/cache/thumb/15/b67b70328a63815_410x230.png)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-8{
+    background: url(https://web21st.imgix.net/assets/images/new-vehicles/bmw/bmw-x3-2025-m50-front-dune-grey.png)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-9{
+    background: url(https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=258F&client=byoc&paint=P0300&fabric=FLKSW&sa=S01MA,S01TH,S0302,S0319,S0322,S03MF,S0453,S04GQ,S04HB,S04MC,S05AC,S05AZ,S06AC,S06AK,S06C4,S06NW,S06U3,S06WD,S0712,S0760,S0776,S07M9,S07MA&angle=30)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-10{
+    background: url(https://www.bmw.tj/content/dam/bmw/common/all-models/m-series/m8-convertible/2022/navigation/bmw-modelfinder-stage2-890x501.png)center/cover;
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.we-11{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrZ6jRfcb0m5xRKSWA3V3NSrXz0wJVdEcrA&s)center/cover;
+    width: 500px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.we-12{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYj9gi-LZ5yHAMo_0R8N0F4UlbSNdzYfMGsw&s)center/cover;
+  width: 350px;
+  height: 150px;
+    background-repeat: no-repeat;
+    
+}
+.we-13{
+    background: url(https://www.bmw.tj/content/dam/bmw/common/all-models/m-series/m5-sedan/2021/Navigation/bmw-m5-cs-modelfinder.png)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-14{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKczC0fP9EOjR0OKypmTKk-ZphOKYa3_i2rA&s)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-15{
+    background: url(https://vehicle-images.dealerinspire.com/stock-images/thumbnails/large/chrome/0acb9530716fa2b74176935c6314ac0a.png)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+.we-16{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWdKP23oxXUfJ_OJTbLzanNhPeCet1Y93Uw&s)center/cover;
+  width: 300px;
+  height: 150px;
+    background-repeat: no-repeat;
+}
+.we-17{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF1ch3l39GjEwxIWwGBF2XACdu-zDVT7kjFw&s)center/cover;
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.we-18{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQt6x7o55rrzhqPLbMQethrgU_x99mgYgDMQ&s)center/cover;
+    width: 300px;
+    height: 150px;
+    background-repeat: no-repeat;   
+}
+.we-19{
+   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pC98wI5mfalU4Xq2OjG59hBnz7BRHV4zKQ&s)center/cover;
+   width: 300px;
+   height: 150px;
+    background-repeat: no-repeat;   
+}
+.we-20{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1mPZD8q4UFC-QgVM9HJu_gpzWFaOnm9G7Gw&s)center/cover;
+    width: 380px;
+    height: 150px;
+    background-repeat: no-repeat;   
+}
